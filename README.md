@@ -2,6 +2,14 @@
 
 This repository contains a Bash script to automate the installation of Wazuh 4.7 on Ubuntu 22.04. The script includes options for managing the admin account password and ensuring services are restarted as needed.
 
+## Quick Install
+
+You can directly install Wazuh by running the following command:
+
+```bash
+curl -s https://raw.githubusercontent.com/zahidmm/Wazuh-Automatic-Installer/main/wazuhautoinstall.sh | sudo bash
+```
+
 ## Features
 
 - **Automatic Installation**: Installs Wazuh 4.7 on Ubuntu 22.04 if not already installed.
