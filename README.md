@@ -7,7 +7,7 @@ This repository contains a Bash script to automate the installation of Wazuh 4.7
 You can directly install Wazuh by running the following command:
 
 ```bash
-curl -s https://raw.githubusercontent.com/zahidmm/Wazuh-Automatic-Installer/main/wazuhautoinstall.sh
+curl -sO https://raw.githubusercontent.com/zahidmm/Wazuh-Automatic-Installer/main/wazuhautoinstall.sh
 ```
 
 ## Features
